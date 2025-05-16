@@ -1,1 +1,2 @@
 Hi! I'm Bob. I'm new here. 
+I want to merge divergent branches
